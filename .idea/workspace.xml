@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e3e06d7-ee71-44ae-8236-f01d234c8641" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/T1E1.py" beforeDir="false" afterPath="$PROJECT_DIR$/T1E1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/T1E10.py" beforeDir="false" afterPath="$PROJECT_DIR$/T1E10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/T1E2.py" beforeDir="false" afterPath="$PROJECT_DIR$/T1E2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/T1E3.py" beforeDir="false" afterPath="$PROJECT_DIR$/T1E3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/T1E8NP.py" beforeDir="false" afterPath="$PROJECT_DIR$/T1E8NP.py" afterDir="false" />
-    </list>
+    <list default="true" id="1e3e06d7-ee71-44ae-8236-f01d234c8641" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659383680157</updated>
-      <workItem from="1659383681856" duration="367000" />
+      <workItem from="1659383681856" duration="600000" />
     </task>
     <servers />
   </component>
