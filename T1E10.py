@@ -9,7 +9,6 @@ N = int(input("Ingrese la cantidad de bultos: "))
 total = 0
 i = 0
 tabla = []
-controlpeso=[]
 info = []
 controlpeso = []
 controlprecio = []
