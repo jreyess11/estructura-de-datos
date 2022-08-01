@@ -26,15 +26,15 @@ deberá mover todos los ceros que aparezcan al final del arreglo, manteniendo el
 que no son cero. Se deberá imprimir el arreglo antes y después del cambio.
 
 8. Desarrollar un algoritmo que imprima el siguiente patrón utilizando un arreglo bidimensional:
-- - - - o - - - -
-- - - - o - - - -
-- - - - o - - - -
-- - - - o - - - -
-o o o o o o o o o
-- - - - o - - - -
-- - - - o - - - -
-- - - - o - - - -
-- - - - o - - - -
+#- - - - o - - - -
+#- - - - o - - - -
+#- - - - o - - - -
+#- - - - o - - - -
+#o o o o o o o o o
+#- - - - o - - - -
+#- - - - o - - - -
+#- - - - o - - - -
+#- - - - o - - - -
 
 9. Desarrollar una aplicación que posea una función que reciba un arreglo y un valor y verifique si dicho valor
 existe en el arreglo. Para probar su funcionamiento el usuario debe generar un arreglo de tamaño variable que
@@ -47,7 +47,8 @@ b. El valor por kilo del bulto es :
 - de 0 a 25 Kg. cero pesos
 - de 26 a 300 Kg., $1500 pesos por kilo de equipaje.
 - de 301 a 500 Kg. $2500 pesos por kilo de equipaje
-    Para un vuelo cualquiera se pide:
+
+Para un vuelo cualquiera se pide:
   a. Número total de bultos ingresados para el vuelo
   b. Peso del bulto más pesado y del más liviano
   c. Peso promedio de los bultos
