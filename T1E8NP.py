@@ -10,6 +10,11 @@ for i in range(9):
         patron[i][j] = "-"
         if j == 4 or i == 4:
             patron[i][j]="o"
+salida=""
+for r in patron:
+    for s in r:
+        print(s, end="  ")
+    print()
 
-print(patron)
+print(salida)
 msvcrt.getch()
